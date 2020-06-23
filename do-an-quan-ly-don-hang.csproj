@@ -6,4 +6,9 @@
     <RootNamespace>do_an_quan_ly_don_hang</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Alba.CsConsoleFormat" Version="1.0.0" />
+    <PackageReference Include="ConsoleTables" Version="2.4.1" />
+  </ItemGroup>
+
 </Project>
