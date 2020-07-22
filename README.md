@@ -9,5 +9,5 @@
 - Clone this repo into your local machine
 - Run this by "dotnet watch run" (you have to install dotnetwatch first, read about the installation here: https://www.nuget.org/packages/dotnet-watch)
 
-## Snashot
-![snapshot](https://github.com/ngochangjelly/csharp-console-store-management-app/blob/master/app-demo.png)
+## Snapshot
+![snapshot app's command line interface](https://github.com/ngochangjelly/csharp-console-store-management-app/blob/master/app-demo.png)
